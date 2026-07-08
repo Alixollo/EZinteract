@@ -1,0 +1,2 @@
+execute as @e[type=interaction,tag=ezint_entity,distance=..1] if entity @s[nbt={response:0b}] run return run function ezinteract:setresponse
+execute as @e[type=interaction,tag=ezint_entity,distance=..1] if entity @s[nbt={response:1b}] run function ezinteract:unsetresponse

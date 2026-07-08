@@ -1,0 +1,1 @@
+execute summon interaction run function ezinteract:internal/setinteractdata

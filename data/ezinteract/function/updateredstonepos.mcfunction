@@ -1,0 +1,3 @@
+execute as @e[type=interaction,tag=ezint_entity,distance=..1] run data modify entity @s data.redstoneposition.x set from entity @s Pos[0]
+execute as @e[type=interaction,tag=ezint_entity,distance=..1] run data modify entity @s data.redstoneposition.y set from entity @s Pos[1]
+execute as @e[type=interaction,tag=ezint_entity,distance=..1] run data modify entity @s data.redstoneposition.z set from entity @s Pos[2]

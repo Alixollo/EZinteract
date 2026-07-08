@@ -1,0 +1,1 @@
+data merge entity @e[type=interaction,distance=..1,limit=1,sort=nearest] {response:1b}

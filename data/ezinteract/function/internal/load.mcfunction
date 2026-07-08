@@ -1,0 +1,2 @@
+scoreboard objectives add ezint_current_interaction dummy
+scoreboard objectives add ezint_current_attack dummy
