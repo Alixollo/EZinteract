@@ -1,6 +1,6 @@
 {
 	"pack": {
-		"pack_format": 48,
+		"pack_format": 101.1,
 		"description": "Permet d'utiliser les entités d'intéraction sans boucles de commandes."
 	}
 }
